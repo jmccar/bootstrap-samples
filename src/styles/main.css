@@ -5,6 +5,18 @@ body {
 img {
   max-width: 100%; }
 
+.about {
+  background: url("/img/girlincar.jpg") center center no-repeat;
+  background-size: cover; }
+
+.about-text {
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 1.875rem; }
+
+.section-content {
+  padding: 5rem 0; }
+
 .cover {
   align-items: center;
   background: #222 url("/img/stars.jpg") center center no-repeat;
@@ -20,3 +32,10 @@ img {
 .form-inline {
   display: flex;
   justify-content: center; }
+
+.footer-main {
+  background: #222;
+  color: #fff;
+  font-size: .8rem;
+  list-style: none;
+  padding: 2.5rem; }

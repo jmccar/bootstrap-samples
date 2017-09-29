@@ -1,5 +1,6 @@
 $cover-background: #222;
 $cover-color: #fff;
+$about-text-color: rgba(0, 0, 0, .8);
 
 html,
 body {
@@ -8,6 +9,21 @@ body {
 
 img {
   max-width: 100%;
+}
+
+.about {
+  background: url('/img/girlincar.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+.about-text {
+  background: $about-text-color;
+  color: $cover-color;
+  padding: 1.875rem;
+}
+
+.section-content {
+  padding: 5rem 0;
 }
 
 .cover {
@@ -27,4 +43,12 @@ img {
 .form-inline {
   display: flex;
   justify-content: center;
+}
+
+.footer-main {
+  background: $cover-background;
+  color: $cover-color;
+  font-size: .8rem;
+  list-style: none;
+  padding: 2.5rem;
 }
