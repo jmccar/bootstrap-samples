@@ -31,6 +31,18 @@ img {
 .blockquote-footer {
   margin: 1rem 0 0; }
 
+.feature-content {
+  padding: 8rem 0;
+  overflow: hidden; }
+  .feature-content img {
+    margin-bottom: -8rem; }
+
+.feature-dark {
+  background: #262f36;
+  color: white; }
+  .feature-dark h2 {
+    color: white; }
+
 .stage {
   align-items: center;
   background: url("/img/stage.jpg") center center no-repeat;
@@ -50,3 +62,8 @@ img {
     color: white;
     font-weight: bold;
     text-transform: uppercase; }
+
+@media screen and (min-width: 991px) {
+  .feature-content, .row {
+    display: flex;
+    align-items: center; } }
