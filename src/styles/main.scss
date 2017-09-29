@@ -1,0 +1,30 @@
+$cover-background: #222;
+$cover-color: #fff;
+
+html,
+body {
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+.cover {
+  align-items: center;
+  background: $cover-background url('/img/stars.jpg') center center no-repeat;
+  background-size: cover;
+  color: $cover-color;
+  display: flex;
+  height: 100%;
+  text-align: center;
+}
+
+.cover-caption {
+  width: 100%;
+}
+
+.form-inline {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%; }
+
+img {
+  max-width: 100%; }
+
+.cover {
+  align-items: center;
+  background: #222 url("/img/stars.jpg") center center no-repeat;
+  background-size: cover;
+  color: #fff;
+  display: flex;
+  height: 100%;
+  text-align: center; }
+
+.cover-caption {
+  width: 100%; }
+
+.form-inline {
+  display: flex;
+  justify-content: center; }
