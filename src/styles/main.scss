@@ -38,6 +38,14 @@ img {
   margin: 1rem 0 0;
 }
 
+.feature-alt {
+  background: #f0f0f0;
+}
+
+.feature-four .feature-content {
+  padding: 0;
+}
+
 .feature-content {
   padding: 8rem 0;
   overflow: hidden;
@@ -51,6 +59,19 @@ img {
   color: white;
   h2 {
     color: white;
+  }
+}
+
+.main-footer {
+  background: #262f36;
+  color: white;
+  padding: 6rem 0;
+  font-size: .8rem;
+  h6 {
+    color: #718fa9;
+  }
+  a {
+    color: #6c6f73;
   }
 }
 
@@ -78,7 +99,7 @@ img {
 }
 
 @media screen and ( min-width: 991px ) {
-  .feature-content, .row {
+    .row {
     display: flex;
     align-items: center;
   }
