@@ -2,7 +2,7 @@
 
 ### About
 ------
-This repo contains various micro-projects focused on the [Bootstrap 4](https://getbootstrap.com/) framework. Some content was built as a code along, while other content was thrown in here because it wasn't important enough to deserve its own repo. If you're learning Bootstrap, and you're interested in thumbing through these projects, you're welcome to clone them and do with them as you wish.
+This repo contains various micro-projects focused on the [Bootstrap 4](https://getbootstrap.com/) framework. Some content was built as a code-along, while other content was thrown in here because it wasn't important enough to deserve its own repo. If you're learning Bootstrap, and you're interested in thumbing through these projects, you're welcome to clone them and do with them as you wish.
 
 The links below will direct you to live versions of the source.
 
