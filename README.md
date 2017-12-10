@@ -6,6 +6,21 @@ This repo contains various micro-projects focused on the [Bootstrap 4](https://g
 
 The links below will direct you to live versions of the source.
 
+### Installation
+------
+
+**Full Clone**:
+
+`git clone https://github.com/mdawsondev/bootstrap-4 `
+
+
+**Individual Downloads**:
+
+*Replace `#` at the end of the URL with the project number you want.*
+
+`https://git.io/vbRmK#home?url=https://github.com/mdawsondev/bootstrap-4/tree/master/project-#`
+
+
 ### Code-Alongs
 ------
 * **[Project 1](https://mdawsondev.github.io/bootstrap-4/project-1/dist/index.html)**: Generic theme, with Brad Hussey's first [three-part tutorial](https://youtu.be/a4tbhwMGSPQ).
